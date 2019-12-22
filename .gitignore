@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+fma/
+*.csv
+fma_small/
+__pycache__/
