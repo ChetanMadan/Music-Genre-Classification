@@ -3,3 +3,4 @@ fma/
 *.csv
 fma_small/
 __pycache__/
+*.npz
